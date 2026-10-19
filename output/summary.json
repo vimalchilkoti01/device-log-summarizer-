@@ -1,0 +1,20 @@
+[
+  {
+    "device_id": "DEV_A",
+    "total_records": 3,
+    "avg_temperature": 72.03,
+    "error_count": 1
+  },
+  {
+    "device_id": "DEV_C",
+    "total_records": 3,
+    "avg_temperature": 58.2,
+    "error_count": 1
+  },
+  {
+    "device_id": "DEV_D",
+    "total_records": 1,
+    "avg_temperature": 70.0,
+    "error_count": 0
+  }
+]
