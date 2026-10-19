@@ -1,0 +1,7 @@
+Device      Records   Avg Temp  Errors
+--------------------------------------
+DEV_A             3      72.03       1
+DEV_C             3      58.20       1
+DEV_D             1      70.00       0
+
+Valid rows: 12 | Skipped bad rows: 4 | Saved: output/summary.json
